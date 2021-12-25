@@ -1,3 +1,3 @@
 # test2022
 test
-vardas pavarde adresas
+vardas pavarde adresas.
